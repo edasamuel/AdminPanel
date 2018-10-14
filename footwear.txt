@@ -1,0 +1,4 @@
+<option>Formal Shoes</option>
+<option>Casual Shoes</option>
+<option>Slippers</option>
+<option>Flip Flops</option>
